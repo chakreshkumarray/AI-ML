@@ -1,0 +1,7 @@
+Legit Transaction : 284315 -->0 Noraml
+Fraud Transaction: 492  -->1 Fraud
+
+Logistic Regression:
+Accuracy on Training data :  0.9504447268106735
+
+Accuracy score on Test Data :  0.934010152284264
